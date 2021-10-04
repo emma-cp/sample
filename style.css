@@ -1,0 +1,4 @@
+.friends li:hover {
+color: blue;
+cursor: pointer;
+}
